@@ -1,0 +1,15 @@
+# Secrets & environment
+.env
+.env.*
+*.pem
+*.key
+
+# Dependencies & Build
+node_modules/
+dist/
+.wrangler/
+
+# System & OS
+.DS_Store
+Thumbs.db
+*.log
